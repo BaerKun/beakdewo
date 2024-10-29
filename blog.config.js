@@ -26,7 +26,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'Bear Kun', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || '一个SB', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://my-web-beryl-iota.vercel.app', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://my-web-beryl-iota.vercel.app', // 网站地址，用于分享
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'Hello, World', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
