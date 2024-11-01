@@ -39,7 +39,8 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    'SB'
+    '__熊.昆__',
+    'Bear Kun'
   ],
 
   // 个人资料底部按钮

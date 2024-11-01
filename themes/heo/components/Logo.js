@@ -10,8 +10,8 @@ const Logo = props => {
       <div className='flex flex-nowrap items-center cursor-pointer font-extrabold'>
         <LazyImage
           src={siteInfo?.icon}
-          width={24}
-          height={24}
+          width={50}
+          height={32}
           alt={siteConfig('AUTHOR')}
           className='mr-4 hidden md:block'
         />
